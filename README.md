@@ -24,8 +24,8 @@ This repository presents an in-depth Exploratory Data Analysis (EDA) conducted o
 * Chennai Super Kings won the most number of matches after winning the toss.
 
 # Procudure 
-1.kdjsad
-2.jhdasd
+* 1.kdjsad
+* 2.jhdasd
 
 
 
