@@ -1,5 +1,8 @@
 ![Image Alt Text](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-IPL/blob/main/ipl.jpg?raw=true)
 
+# IPL
+The Indian Premier League (IPL) is an Indian professional Twenty20 (T20) cricket league established in 2008. The league is based on a round-robin group and knockout format and has teams in major Indian cities.
+
 # Exploratory Data Analysis on IPL 
 This repository presents an in-depth Exploratory Data Analysis (EDA) conducted on the Indian Premier League (IPL) dataset. The IPL is a renowned Twenty20 cricket league in India, and this EDA delves into the dataset to uncover meaningful insights, patterns, and trends.
 
