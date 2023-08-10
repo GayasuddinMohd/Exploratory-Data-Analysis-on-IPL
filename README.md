@@ -23,7 +23,7 @@ This repository presents an in-depth Exploratory Data Analysis (EDA) conducted o
 * There is 51.98% chances in winning the match after winning the toss.
 * Chennai Super Kings won the most number of matches after winning the toss.
 
-# Skills Used 
+# Skills  
 * Python
 * Numpy
 * Pandas
@@ -35,7 +35,8 @@ This repository presents an in-depth Exploratory Data Analysis (EDA) conducted o
 * Statistics
 
 # Dataset
-* You can download the dataset from the kaggle https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=IPL+Matches+2008-2020.csv
+* You can download the dataset from the kaggle website.
+* https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=IPL+Matches+2008-2020.csv
 
 
 
