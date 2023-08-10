@@ -7,9 +7,7 @@ This repository presents an in-depth Exploratory Data Analysis (EDA) conducted o
 This repository is about EDA performed on Indian Premier League Data available between 2008 - 2018.
    - It has a python notebook where all the coding has been done.
    - It also has the relevant datasets and files used for this analysis.
-
-
-
+     
 # Key Highlights 
 * Thorough analysis of match data, player statistics, teams' performance, and venue influence.
 * Seasonal trends and patterns identified across different IPL seasons.
@@ -44,11 +42,6 @@ This repository is about EDA performed on Indian Premier League Data available b
 # Dataset
 * You can download the dataset from the kaggle website.
 * https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=IPL+Matches+2008-2020.csv
-
-**Run Notebooks:**
-   - Open Jupyter Notebook: `jupyter notebook`
-   - Navigate to `notebooks/` and run the notebooks sequentially.
-
 
 
 
