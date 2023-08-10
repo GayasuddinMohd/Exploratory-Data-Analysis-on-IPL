@@ -23,9 +23,11 @@ This repository presents an in-depth Exploratory Data Analysis (EDA) conducted o
 * There is 51.98% chances in winning the match after winning the toss.
 * Chennai Super Kings won the most number of matches after winning the toss.
 
-# Procudure 
-1* kdjsad
-2* jhdasd
+# Skills Used
+* Python
+* Numpy
+* Pandas
+
 
 
 
