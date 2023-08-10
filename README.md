@@ -34,9 +34,8 @@ This repository presents an in-depth Exploratory Data Analysis (EDA) conducted o
 * Kaggle
 * Statistics
 
-  
-
-
+# Dataset
+* You can download the dataset from the kaggle https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=IPL+Matches+2008-2020.csv
 
 
 
