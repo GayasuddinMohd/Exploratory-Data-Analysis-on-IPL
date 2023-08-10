@@ -47,7 +47,9 @@ This repository presents an in-depth Exploratory Data Analysis (EDA) conducted o
 
 
 
-
+6. **Run Notebooks:**
+   - Open Jupyter Notebook: `jupyter notebook`
+   - Navigate to `notebooks/` and run the notebooks sequentially.
 
 
 
