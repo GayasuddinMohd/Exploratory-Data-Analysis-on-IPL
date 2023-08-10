@@ -5,8 +5,8 @@ This repository presents an in-depth Exploratory Data Analysis (EDA) conducted o
 
 # Repository Overview
 * This repository is about EDA performed on Indian Premier League Data available between 2008 - 2018.
-** It has a python notebook where all the coding has been done.
-** It also has the relevant datasets and files used for this analysis.
+- It has a python notebook where all the coding has been done.
+- It also has the relevant datasets and files used for this analysis.
 
 
 
