@@ -45,9 +45,7 @@ This repository is about EDA performed on Indian Premier League Data available b
 * You can download the dataset from the kaggle website.
 * https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=IPL+Matches+2008-2020.csv
 
-
-
-6. **Run Notebooks:**
+**Run Notebooks:**
    - Open Jupyter Notebook: `jupyter notebook`
    - Navigate to `notebooks/` and run the notebooks sequentially.
 
