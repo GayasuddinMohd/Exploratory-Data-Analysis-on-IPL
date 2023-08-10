@@ -1,16 +1,16 @@
 ![Image Alt Text](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-IPL/blob/main/ipl.jpg?raw=true)
 
-# Exploratory Data Analysis on IPL : 
+# Exploratory Data Analysis on IPL 
 This repository presents an in-depth Exploratory Data Analysis (EDA) conducted on the Indian Premier League (IPL) dataset. The IPL is a renowned Twenty20 cricket league in India, and this EDA delves into the dataset to uncover meaningful insights, patterns, and trends.
 
-# Key Highlights :
+# Key Highlights 
 * Thorough analysis of match data, player statistics, teams' performance, and venue influence.
 * Seasonal trends and patterns identified across different IPL seasons.
 * Top run-scorers and wicket-takers showcased, with performance trends over time.
 * Team comparisons based on win percentages, net run rates, and other metrics.
 * In-depth exploration of match-specific dynamics, including run rates and pivotal moments.
 
-# Summary :
+# Summary 
 * CH Gayle has the most player of the match awards.
 * The percentage of tie matches is only 1.19%.
 * Mumbai Indians wons maximum number of toss.
@@ -23,11 +23,18 @@ This repository presents an in-depth Exploratory Data Analysis (EDA) conducted o
 * There is 51.98% chances in winning the match after winning the toss.
 * Chennai Super Kings won the most number of matches after winning the toss.
 
-# Skills Used :
+# Skills Used 
 * Python
 * Numpy
 * Pandas
+* Matplotlib
+* Seaborn
+* Plotly
+* Jupyter Notebok
+* Kaggle
+* Statistics
 
+  
 
 
 
