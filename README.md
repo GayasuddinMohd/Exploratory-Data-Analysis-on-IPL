@@ -31,7 +31,7 @@ This repository is about EDA performed on Indian Premier League Data available b
 * There is 51.98% chances in winning the match after winning the toss.
 * Chennai Super Kings won the most number of matches after winning the toss.
 
-# Skills  
+# Technologies Used
 * Python
 * Numpy
 * Pandas
