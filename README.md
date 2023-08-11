@@ -1,24 +1,24 @@
 ![Image Alt Text](https://github.com/GayasuddinMohd/Exploratory-Data-Analysis-on-IPL/blob/main/ipl.jpg?raw=true)
 
-# 🔴  IPL  🔴
+# 🌼  IPL  🌼
 The Indian Premier League (IPL) is an Indian professional Twenty20 (T20) cricket league established in 2008. The league is based on a round-robin group and knockout format and has teams in major Indian cities.
 
 # 🌼  Exploratory Data Analysis on IPL  🌼
 This repository presents an in-depth Exploratory Data Analysis (EDA) conducted on the Indian Premier League (IPL) dataset. The IPL is a renowned Twenty20 cricket league in India, and this EDA delves into the dataset to uncover meaningful insights, patterns, and trends.
 
-# Repository Overview
+# 🌼  Repository Overview  🌼
 This repository is about EDA performed on Indian Premier League Data available between 2008 - 2018.
    - It has a python notebook where all the coding has been done.
    - It also has the relevant datasets and files used for this analysis.
      
-# Key Highlights 
+# 🌼  Key Highlights  🌼
 * Thorough analysis of match data, player statistics, teams' performance, and venue influence.
 * Seasonal trends and patterns identified across different IPL seasons.
 * Top run-scorers and wicket-takers showcased, with performance trends over time.
 * Team comparisons based on win percentages, net run rates, and other metrics.
 * In-depth exploration of match-specific dynamics, including run rates and pivotal moments.
 
-# Technologies Used
+# 🌼  Technologies Used  🌼
 * Python
 * Numpy
 * Pandas
@@ -29,11 +29,11 @@ This repository is about EDA performed on Indian Premier League Data available b
 * Kaggle
 * Statistics
 
-# Dataset
+# 🌼  Dataset  🌼
 * You can download the dataset from the kaggle website.
 * https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=IPL+Matches+2008-2020.csv
 
-# Summary 
+# 🌼  Summary  🌼 
 * CH Gayle has the most player of the match awards.
 * The percentage of tie matches is only 1.19%.
 * Mumbai Indians wons maximum number of toss.
