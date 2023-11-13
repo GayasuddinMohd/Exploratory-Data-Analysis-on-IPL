@@ -3,7 +3,7 @@
 # IPL Data Unveiled : Exploring Cricket's Winning Formulas
 This repository presents an in-depth analysis conducted on the Indian Premier League (IPL) data. The IPL is a renowned Twenty20 cricket league in India, and this analysis delves into the data to uncover meaningful insights, patterns, and trends.
 
-# Technologies Used  
+# Skills
 * Python
 
 # Dataset  
